@@ -1,0 +1,8 @@
+.bg-image{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
+    background-repeat: no-repeat;
+    background-position: relative;
+    background-size: contain;
+    height: 642px;
+    width: 342px; 
+}
